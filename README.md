@@ -3,7 +3,6 @@
 A modern, high-performance remake of the classic Snake game, built with **Vite**, **TypeScript**, and **HTML5 Canvas**.
 
 ![Snake Game](https://pfcjcyfsmjeuzheclfjc.supabase.co/storage/v1/object/public/project-images/snake-game.png)
-_(Note: Placeholder image, replace with actual screenshot)_
 
 ## Features
 
